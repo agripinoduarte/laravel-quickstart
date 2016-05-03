@@ -1,1 +1,1 @@
-web: php -S localhost:8080 server.php
+web: php artisan up
