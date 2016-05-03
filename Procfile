@@ -1,1 +1,1 @@
-web: php -S localhost:80 server.php
+web: php -S localhost:8080 server.php
