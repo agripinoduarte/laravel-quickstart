@@ -20,13 +20,7 @@
                         <!-- Navbar Contents -->
                         <ul class="pure-menu-list">
                             <li class="pure-menu-item">
-                                <a href="#" class="pure-menu-link">Option 1</a>
-                            </li>
-                            <li class="pure-menu-item">
-                                <a href="#" class="pure-menu-link">Option 2</a>
-                            </li>
-                            <li class="pure-menu-item">
-                                <a href="#" class="pure-menu-link">Option 3</a>
+                                <a href="#" class="pure-menu-link">Home</a>
                             </li>
                         </ul>
                     </div>
