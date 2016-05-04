@@ -21,3 +21,7 @@ elixir(function(mix) {
         'side-menu-old-ie.css'
     ]);
 });
+
+elixir(function(mix) {
+    mix.scripts('ui.js');
+});
